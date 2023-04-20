@@ -1585,6 +1585,33 @@ a {
 .cid-sFF3B84VW8 .mbr-section-title {
   color: #e43f3f;
 }
+.cid-tBVSMHAqLM {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-tBVSMHAqLM .bg-instagram {
+  background: #f00075;
+  color: #ffffff;
+}
+.cid-tBVSMHAqLM .bg-instagram:hover {
+  background: #bd005c;
+}
+.cid-tBVSMHAqLM .iconfont-wrapper {
+  display: inline-block;
+  font-size: 32px;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+}
+.cid-tBVSMHAqLM [class^="socicon-"]:before,
+.cid-tBVSMHAqLM [class*=" socicon-"]:before {
+  line-height: 55px;
+  padding: .6rem;
+}
 .cid-sFF3CYc3p7 {
   padding-top: 30px;
   padding-bottom: 30px;
