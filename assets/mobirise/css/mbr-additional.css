@@ -1108,6 +1108,13 @@ a {
 .cid-sFF75ZhH2d {
   background-color: #000000;
 }
+.cid-sFF75ZhH2d .user_info p {
+  color: #e43f3f;
+}
+.cid-sFF75ZhH2d .user_info .name {
+  font-size: 20px;
+  color: #e43f3f;
+}
 .cid-sFF75ZhH2d .user_image {
   width: 200px;
   height: 200px;
@@ -1153,6 +1160,7 @@ a {
 }
 .cid-sFF75ZhH2d P {
   color: #4479d9;
+  text-align: center;
 }
 .cid-sFF7wKlLkT {
   padding-top: 7rem;
