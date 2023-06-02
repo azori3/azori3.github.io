@@ -50,7 +50,7 @@
     "versionPublish": "5.8.9",
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "axjel9gyxk",
+    "mbrsiteDomain": "wolvesempire",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -66,12 +66,11 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Wolves Empire",
-        "meta_descr": "Transform Your Body with Fun and Effective Training - No Experience Required!",
+        "title": "Home",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": "",
-        "socialSharingUrl": ""
+        "html_before": ""
       },
       "components": [
         {
