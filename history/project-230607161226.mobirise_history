@@ -58,13 +58,15 @@
     "cookiesAlert": false,
     "gdpr": false,
     "publishChangesOnly": false,
-    "usedWebp": false
+    "usedWebp": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Wolves Empire | Aymen Foughaly - LOS ANGELES",
+        "title": "Wolves Empire",
         "meta_descr": "Transform Your Body with Fun and Effective Training - No Experience Required!",
         "header_custom": "",
         "footer_custom": "",
