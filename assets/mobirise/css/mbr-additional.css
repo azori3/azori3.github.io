@@ -1034,6 +1034,29 @@ a {
     left: -1rem;
   }
 }
+.cid-tIXvwHcxTn {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #181818;
+}
+.cid-tIXvwHcxTn .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tIXvwHcxTn .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tIXvwHcxTn .mbr-section-title {
+  color: #e43f3f;
+}
+.cid-tIXvwHcxTn .mbr-section-subtitle {
+  color: #e43f3f;
+}
 .cid-sFF75ZhH2d {
   background-color: #ffffff;
 }
